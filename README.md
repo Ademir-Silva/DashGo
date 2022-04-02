@@ -4,18 +4,17 @@
 
 ---
 
-# Mas o que é isso??
+## 🤔 Mas o que é isso??
 
 O ***100DaysOfCode*** é um desafio criado pela comunidade **CyberMakers Network**, onde eu e mais 15 participantes temos o objetivo de codar durante 100 dias um projeto pessoal nosso, mas de um forma diferente, como ainda sou Junior
 
-# Qual a ideia para desenvolver?
+## 💡 Qual a ideia?
 
 <aside>
-💡 Necessito de um dashboard onde eu possa ver informações precisas sobre a minha wallet da Binance, de forma prática, ágil e segura.
-
+Necessito de um dashboard onde eu possa ver informações precisas sobre a minha wallet da Binance, de forma prática, ágil e segura.
 </aside>
 
-# Objetivos a serem focados
+## 👀 Objetivos a serem focados
 
 ### Objetivos principais
 
@@ -24,7 +23,7 @@ O ***100DaysOfCode*** é um desafio criado pela comunidade **CyberMakers Network
 
 ### Objetivos secundários
 
-### Desafio Hard!!
+### 👾 Desafio Hard!!
 
 - Implementar função de **compra** e **venda**
 - Abrir e fechar ordens
