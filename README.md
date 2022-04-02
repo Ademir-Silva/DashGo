@@ -1,4 +1,4 @@
-<img src="https://cdn.icon-icons.com/icons2/1603/PNG/512/computer-laptop-user-developer-programer_108610.png" width="482px" />
+<img src="https://cdn.icon-icons.com/icons2/1603/PNG/512/computer-laptop-user-developer-programer_108610.png" width="125px" />
 
 # 100DaysOfCode CyberMakers [DashGo]
 
