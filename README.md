@@ -1,4 +1,4 @@
-<h1 style="width: 48px">👨‍💻</h1>
+<h1 styles="width: 48px">👨‍💻</h1>
 
 # 100DaysOfCode CyberMakers [DashGo]
 
