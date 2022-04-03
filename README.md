@@ -1,6 +1,4 @@
-<center>
 <img src="https://cdn.icon-icons.com/icons2/1603/PNG/512/computer-laptop-user-developer-programer_108610.png" width="125px" />
-</center>
 
 # 100DaysOfCode CyberMakers [DashGo]
 ---
@@ -20,7 +18,6 @@ Necessito de um dashboard onde eu possa acessar e ver informações precisas sob
 
 - Consumir os dados através da API da Binance
 - Exibir no front informações com um design clean e moderno
-- 
 
 ### Objetivos secundários
 
@@ -28,6 +25,8 @@ Necessito de um dashboard onde eu possa acessar e ver informações precisas sob
 
 - Implementar função de **compra** e **venda**
 - Abrir e fechar ordens
+
+## Requisitos
 
 # Tecnologias
 
