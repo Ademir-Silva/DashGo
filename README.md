@@ -31,3 +31,4 @@ Necessito de um dashboard onde eu possa acessar e ver informações precisas sob
 # Tecnologias
 
 Como base do projeto, será utilizada a linguagem Go [ **GoLang** ]. Será minha primeira experiência com a linguagem, achei bem interresante e que irá resolver a demanda do projeto.
+Será usado MySQL como banco de dados
